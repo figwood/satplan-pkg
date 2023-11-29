@@ -1,7 +1,7 @@
 ## About satplan
 Satplan is a tool for planning missions of remote sensing satellites. With Satplan, users can obtain information about the sensor paths in their area of interest for the upcoming days.
 
-Here is a demo site: https://satplan.fogsea.ga
+Here is a demo site: https://satplan.fogsea.cf
 
 ### Key features
 * Automatic calculation of satellite tracks and sensor paths using SGP4.
